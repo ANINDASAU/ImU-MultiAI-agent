@@ -1,6 +1,6 @@
-# 🎓 Intelligent University Management for Students - AI-Powered Multi-Agent System
+# 🎓 Intelligent AI-Powered Management System for University Students
 
-> An intelligent student query management system that routes student questions to the right university department using AI-powered classification and automated Relay.app workflows.
+> A Full-stack intelligent student query management system that routes student questions to the right university department using AI-powered classification and automated Relay.app workflows.
 
 - **Link1**: - https://imu-multi-ai-agent.vercel.app/
 - **Link2**: - https://imu-multi-ai-agent-git-main-anindas-projects-a3531d1c.vercel.app/
